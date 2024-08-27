@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "KOSMobile",
-            url: "",
-            checksum: ""
+            url: "https://github.com/daniellfalcao/kos-rs-fork/releases/download/0.0.14/KOSMobile.xcframework.zip",
+            checksum: "a6a3a5a3686218c090da95ddbd3ae6adfdb9706431532ea34e630dd601ef1070"
         ),
     ]
 )
