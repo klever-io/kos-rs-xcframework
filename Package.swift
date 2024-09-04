@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "KOSMobile",
     platforms: [
-        .iOS(.v13),
+        .iOS(.v13), .macOS("10.15")
     ],
     products: [
         .library(
