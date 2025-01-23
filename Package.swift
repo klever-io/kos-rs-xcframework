@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "KOSMobile",
-            url: "https://github.com/klever-io/kos-rs/releases/download/v0.1.2/KOSMobile.xcframework.zip",
-            checksum: "afc0d277e150d6cb01eb0e1286551e32e58b19f31a7d332849c8e7289241ae8d"
+            url: "https://github.com/klever-io/kos-rs/releases/download/v0.2.3/KOSMobile.xcframework.zip",
+            checksum: "7528b9eacd6ed361bfb20b31bb92cd8033522eeb6307dc87ddc60c5ee95e6bb8"
         ),
     ]
 )
